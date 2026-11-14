@@ -1,0 +1,3 @@
+[submodule "NeoCode"]
+	path = NeoCode
+	url = git@github.com:NeoTech-vietnam/NeoCode.git
